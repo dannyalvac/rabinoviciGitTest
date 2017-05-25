@@ -74,7 +74,6 @@ $("#play-video-lightbox .close-but").click(function () {
   
   $("iframe#team-comm-full").attr('src', "https://www.youtube.com/embed/h_llgBq0pW0?enablejsapi=1&autoplay=0");
   $("body,html").removeClass("lightbox-active");
-  //$(document).scrollTop( $("#play-video").offset().top );
 }); 
 ////////////////////////////////////////////////////////////////////////// ** //
 // Home Animation
